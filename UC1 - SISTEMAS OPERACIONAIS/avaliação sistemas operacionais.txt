@@ -1,0 +1,48 @@
+AVALIAÇÃO SISTEMAS OPERACIONAIS:
+
+
+1. Qual a diferença entre memória RAM e ROM?
+
+2. Cite 5 atalhos do Windows e o que eles fazem
+
+3. Vai ter uma foto da tela:
+	Barra de Tarefas
+	Central de Ações
+	Barra de Pesquisa
+	Botão do Windows
+
+4. O que a opção Suspender faz com o computador e o que retorna quando você religa?
+
+5. Qual das opções abaixo é a versão mais completa do Windows?
+(a) Windows 10 PRO
+(b) Windows 10 Enterprise
+(c) Windows 10 Education
+(d) Windows 10 Home
+(e) Windows 10 Trial
+
+6. Vou fornecer 3 configurações de Software e a configuração do computador e vocês informarão se é possível ou não instalar no PC.
+
+7. Marque a segunda coluna de acordo com a primeira:
+
+(1) Software Proprietário	(   ) Software que tem o código aberto e livre que permite alterações pelo usuário
+(2) Freeware				(   ) Software que pode ser distribuído gratuitamente por um tempo de uso ou com 
+								  limitações
+(3) ShareWare				(   ) Software com código fechado e que não pode ser modificado.
+(4) Software Open-Source	(   ) Software que pode ser distribuído gratuitamente com todas as funções.
+
+8. Marque (E) para dispositivos de Entrada, (S) para dispositivos de saída, (ES) para dispositivos de entrada e saída e (A) para Não se aplica:
+(   ) Impressora			(   )  Câmera				(   ) Processador		(   ) Monitor
+(   ) Scanner				(   )  Memória				(   ) Mouse				(   ) Placa-mãe
+(   ) Pen-drive				(   )  Hard Disk			(   ) Microfone			(   ) Caixa de Som
+
+9) O que é kernel e para que serve?
+
+10) Qual a diferença entre Software e Hardware?
+
+
+
+
+ 
+ 
+ 
+ 

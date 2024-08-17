@@ -1,0 +1,52 @@
+Plano de Aula - Unidade Curricular: Sistemas Operacionais
+Objetivo Geral: Capacitar os alunos a compreender os fundamentos, características e operacionalização dos sistemas operacionais, incluindo a configuração e utilização de ferramentas essenciais para organização e segurança dos dados.
+
+Tempo Total: 40 horas
+Dia 1 (4 horas)
+Introdução aos Sistemas Computacionais e Operacionais
+
+Fundamentos históricos dos sistemas computacionais
+Conceitos básicos de hardware e software
+Identificação dos tipos e características dos sistemas operacionais
+Atividade Prática: Demonstração de diferentes sistemas operacionais e suas interfaces.
+
+Dia 2 (4 horas)
+Identificação e Requisitos de Hardware e Software
+Características fundamentais do sistema computacional
+Requisitos mínimos de hardware para sistemas operacionais e aplicativos
+Atividade Prática: Verificação dos requisitos de hardware para instalação de um sistema operacional específico.
+
+Dia 3 (4 horas)
+Ferramentas e Recursos do Sistema Operacional
+
+Tipos e funcionalidades das ferramentas do sistema operacional
+Aplicabilidade e uso prático das ferramentas de compactação de arquivos
+Atividade Prática: Utilização de ferramentas de compactação para organizar e gerenciar arquivos.
+
+Dia 4 (4 horas)
+Configuração e Instalação do Sistema Operacional
+
+Técnicas de configuração e instalação de aplicativos e sistemas operacionais
+Normas de segurança e recomendações de configuração
+Atividade Prática: Instalação básica de um sistema operacional em máquinas virtuais.
+
+Dia 5 (4 horas)
+Atualização e Personalização de Software
+
+Processo de atualização e personalização de aplicativos e sistemas
+Ferramentas e recursos para configuração avançada
+Atividade Prática: Personalização da interface de um sistema operacional conforme requisitos específicos.
+
+Dia 6 (4 horas)
+Trabalho em Equipe e Organização de Recursos
+
+Importância do trabalho em equipe na configuração de sistemas
+Organização de recursos e ferramentas do sistema operacional
+Atividade Prática: Simulação de trabalho colaborativo na resolução de problemas de configuração.
+
+Dia 7 (4 horas)
+Revisão e Avaliação
+
+Revisão dos conceitos-chave
+Preparação para avaliação da unidade
+Atividade Prática: Exercícios de fixação e preparação para a avaliação.

@@ -1,0 +1,66 @@
+UC I - SISTEMAS OPERACIONAIS
+
+1.1. Identificar os sistemas computacionais (hardware e software)
+
+1.1.1. Verificando as características fundamentais do sistema computacional;
+1.1.2. Verificando requisitos mínimos de hardware para o funcionamento do sistema operacional e aplicativos
+
+1.2. Identificar sistema operacional para utilização de ferramentas na organização de dados
+
+1.2.1. Verificando as características do sistema operacional para utilização de ferramentas;
+1.2.2. Verificando os recursos de aplicabilidade do sistema operacional para utilização na atividade fim
+
+1.3. Operacionalizar ferramentas na configuração de sistemas operacionais e aplicativos
+
+1.3.1. Verificando as ferramentas para configuração de sistemas operacionais e aplicativos (software);
+1.3.2 Verificando as ferramentas de configuração de hardware; 
+1.3.3 Seguindo recomendações de configuração e normas de segurança de configuração dos sistemas operacionais e aplicativos;
+1.3.4. Seguindo recomendações e normas de atualizações e personalizações para funcionamento de software e hardware.
+
+Módulo Básico
+• Fundamentos históricos;
+• Conceitos;
+• Tipos;
+• Características;
+• Funcionalidades;
+• Aplicabilidades;
+• Processamento de dados;
+• Periféricos de entrada e saída de dados;
+• Dispositivos e Componentes (tipos, características, funcionalidades);
+Sistemas Operacionais
+• Tipos;
+• Características;
+• Funcionalidades;
+• Aplicabilidades
+Ferramentas e Recursos do Sistema Operacional
+• Tipos;
+• Características;
+• Funcionalidade;
+• Aplicabilidade;
+• Compactação de arquivos;
+Configuração do Sistema Operacional
+• Conceitos;
+• Tipos;
+• Características;
+• Aplicabilidade;
+Técnicas de Configuração e Instalação do Sistema
+Operacional
+• Aplicativos;
+• Ferramentas;
+• Recursos;
+• Formatação;
+• Instalação básica de sistema operacional;
+Atualização e Personalização de Software
+• Aplicativos;
+• Ferramentas;
+• Recursos;
+• Configuração
+Trabalho em equipe
+• Trabalho em grupo
+• O relacionamento com os colegas de equipe
+• Responsabilidades individuais e coletivas
+• Cooperação
+Organização de ferramentas e recursos do sistema operacional
+• Organização de trabalho horário, ordem de prioridade, rotinas e tempo
+• Métodos e Técnicas de Instalação e Configuração do Sistema Operacional;
+• Ferramentas da Qualidade – Ciclo PDCA na instalação e configuração do sistema operacional
