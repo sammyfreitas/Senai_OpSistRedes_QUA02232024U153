@@ -1,0 +1,48 @@
+Use o seu conhecimento de redes e o software Cisco Packet Tracer
+para simular o que será pedido a seguir:
+------------------------------------------------------------------------
+
+1) Crie uma rede ponto a ponto, ou seja, um computador ligado em outro diretamente por um cabo. Para esta rede faça os seguintes testes:
+
+a. use um cabo normal (em inglês, straight-through) para ligar as duas máquinas, configure o IPv4 de ambas as máquinas e use o comando ping para verificar o funcionamento da rede;
+
+b. agora repita o procedimento do item anterior, porém usando um cabo cruzado (em inglês, cross-over) para ligar as duas máquinas.
+
+------------------------------------------------------------------------
+
+2)Crie uma rede usando um Switch 2950-24 (24 portas). Coloque pelo menos 12 máquinas, variando entre PC’s e Laptop’s. Configure as máquinas com IP’s:
+a. envie um ping entre todas as máquinas 
+b. envie ping para o servidor
+c. acesse a página http do servidor
+
+------------------------------------------------------------------------
+3) Crie uma rede usando pelo menos três Switch’s. Coloque no mínimo 5 máquinas interligadas a cada Switch, alternando entre PC’s e Laptop’s. Interligue os Switch’s da forma correta. 
+Configure 5 máquinas de um switch com classe a, 192.0.0.0
+Configure 5 máquinas de um switch com classe b, 192.168.0.0
+Configure 5 máquinas de um switch com classe c, 192.168.10.0
+
+a. teste sua rede para averiguar se está tudo funcionando – os testes devem ser feitos computador a computador, na mesma sub-rede, com o uso do ambiente de simulação;
+b. tente enviar ping entre as máquinas com IP’s de classes diferentes e observe o resultado.
+
+
+
+Classe A
+192.0.0.1
+192.0.0.2
+192.0.0.3
+192.0.0.4
+192.0.0.5
+
+Classe B
+192.168.0.1
+192.168.0.2
+192.168.0.3
+192.168.0.4
+192.168.0.5
+
+Classe C
+192.168.10.1
+192.168.10.2
+192.168.10.3
+192.168.10.4
+192.168.10.5
